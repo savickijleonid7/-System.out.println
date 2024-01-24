@@ -1,0 +1,4 @@
+  System.out.println("Switched to branch: " + branch);
+        } else {
+            System.out.println("Branch '" + branch + "' does not exist");
+        }
